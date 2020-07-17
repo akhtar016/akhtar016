@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Akhtaruzzaman Khan Nayem</h1>
 <h3 align="center">A curious and passionate front end developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akhtar016" alt="akhtar016" /> </p>
 
 - 👨‍💻 My portfolio website [https://nayem.me](https://nayem.me)
 
