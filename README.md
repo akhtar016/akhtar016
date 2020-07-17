@@ -13,5 +13,5 @@
 <p align="center">
 <a href="https://dev.to/akhtar016" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="akhtar016" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/akhtarnn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akhtarnn" height="20" width="20" /></a>
-<a href="https://fb.com/akhtarnayem" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akhtarnayem" height="20" width="20" /></a>
+
 </p>
