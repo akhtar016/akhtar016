@@ -29,19 +29,6 @@
 <br />
 <br />
 
----
-
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=arifpro&count_private=true&show_icons=true&hide_border=true)](https://github.com/akhtar016)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifpro&layout=compact&hide_border=true)](https://github.com/akhtar016)
-
----
-
-<h2 align="center">Visitor Count</h2>
-<p align="center">
-  <img align="center" alt="proarif.com" width="40%" src="https://profile-counter.glitch.me/akhtar016/count.svg" />
-</p>
 
 
 <!--[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />](https://nayem.me) -->
