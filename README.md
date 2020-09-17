@@ -20,7 +20,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png" />](https://nayem.me)
 
 [<img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/material-ui.svg" />](https://nayem.me) 
-[<img align="left" alt="SemanticUI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/semantic-ui.svg" />](https://nayem.me) 
+[<img align="left" alt="SemanticUI" width="26px" src="https://semantic-ui.com/images/logo.png" />](https://nayem.me) 
 
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />](https://nayem.me)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://nayem.me)
