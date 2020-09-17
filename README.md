@@ -30,8 +30,8 @@
 <br />
 <br />
 
-<!--[<img align="left" alt="jira" width="100px" src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=1246" />](https://jira.atlassian.com/)-->
-[<img align="left" alt="slack" width="100px" src="https://a.slack-edge.com/4a5c4/marketing/img/icons/icon_slack.svg" />](https://slack.com/intl/en-bd/)
+<!--[<img align="left" alt="jira" width="100px" src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=1246" />](https://jira.atlassian.com/) -->
+[<img align="left" alt="slack" width="50px" src="https://a.slack-edge.com/4a5c4/marketing/img/icons/icon_slack.svg" />](https://slack.com/intl/en-bd/)
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
