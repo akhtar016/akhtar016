@@ -31,7 +31,7 @@
 <br />
 
 
-[<img align="left" alt="slack" width="50px" src="https://a.slack-edge.com/4a5c4/marketing/img/icons/icon_slack.svg" />](https://slack.com/intl/en-bd/)
+
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" />](https://code.visualstudio.com/)
 
@@ -42,11 +42,3 @@
 
 
 
-<!--[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />](https://nayem.me) -->
-<!--[<img align="left" alt="Webstorm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/webstorm.svg" />](https://nayem.me) -->
-<!-- [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/gatsby/gatsby.png" />](https://nayem.me) -->
-<!-- [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />](https://nayem.me) -->
-<!-- [<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/deno/deno.png" />](https://nayem.me) -->
-<!--[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />](https://nayem.me) -->
-<!-- [<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](https://nayem.me)  -->
-<!--[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/terminal/terminal.png" />](https://nayem.me) -->
