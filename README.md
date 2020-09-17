@@ -22,7 +22,7 @@
 [<img align="left" alt="MaterialUI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/material-ui.svg" />](https://nayem.me) 
 [<img align="left" alt="SemanticUI" width="26px" src="https://semantic-ui.com/images/logo.png" />](https://nayem.me) 
 
-[<img align="left" alt="Git" width="100px" src="https://git-scm.com/images/logo@2x.png" />](https://nayem.me)
+[<img align="left" alt="Git" width="70px" src="https://git-scm.com/images/logo@2x.png" />](https://nayem.me)
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />](https://nayem.me)
 [<img align="left" alt="Bitbucket" width="100px" src="https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1246" />](https://nayem.me)
 
