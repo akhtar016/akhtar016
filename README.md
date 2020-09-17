@@ -27,6 +27,7 @@
 [<img align="left" alt="Bitbucket" width="100px" src="https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=1246" />](https://bitbucket.org/)
 
 [<img align="left" alt="trello" width="100px" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png" />](https://trello.com/)
+<br />
 [<img align="left" alt="jira" width="100px" src="https://wac-cdn.atlassian.com/dam/jcr:e348b562-4152-4cdc-8a55-3d297e509cc8/Jira%20Software-blue.svg?cdnVersion=1246" />](https://jira.atlassian.com/)
 <!--[<img align="left" alt="slack" width="100px" src="https://a.slack-edge.com/4a5c4/marketing/img/icons/icon_slack.svg" />](https://slack.com/intl/en-bd/) -->
 
