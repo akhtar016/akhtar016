@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Akhtaruzzaman Khan Nayem</h1>
 <h3 align="center">A self taught and passionate Web Developer</h3>
 
-- 👨‍💻 My portfolio website [https://nayem.me](https://nayem.me)
+- 👨‍💻 
 - 📝 I write articles on [https://medium.com/@akhtar016](https://medium.com/@akhtar016)
 - 💻 I'm currently pursuing a degree in BBA under the Dept. of Finance & Banking at Islamic University
 - 📫 Reach me at **akhtaruzzamankhan016@gmail.com**
